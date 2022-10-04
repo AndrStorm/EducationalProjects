@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCoverterRub", "ConsoleCoverterRub\ConsoleCoverterRub.csproj", "{F41996B6-890A-484B-B1B5-D1A0E7786D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "..\HelloWorld\HelloWorld\HelloWorld.csproj", "{3789D039-0052-4508-9149-A54A8EDF653C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41996B6-890A-484B-B1B5-D1A0E7786D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41996B6-890A-484B-B1B5-D1A0E7786D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41996B6-890A-484B-B1B5-D1A0E7786D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41996B6-890A-484B-B1B5-D1A0E7786D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3789D039-0052-4508-9149-A54A8EDF653C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3789D039-0052-4508-9149-A54A8EDF653C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3789D039-0052-4508-9149-A54A8EDF653C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3789D039-0052-4508-9149-A54A8EDF653C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC81A96-773F-4298-8D74-CD2C7091EBB7}
+	EndGlobalSection
+EndGlobal
